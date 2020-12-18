@@ -11,3 +11,16 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Objeto como argumento\obj\Debug\netcor
 C:\Users\mathe\OneDrive\Área de Trabalho\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.dll
 C:\Users\mathe\OneDrive\Área de Trabalho\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\bin\Debug\netcoreapp3.1\Objeto como argumento.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\bin\Debug\netcoreapp3.1\Objeto como argumento.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\bin\Debug\netcoreapp3.1\Objeto como argumento.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\bin\Debug\netcoreapp3.1\Objeto como argumento.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\bin\Debug\netcoreapp3.1\Objeto como argumento.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\bin\Debug\netcoreapp3.1\Objeto como argumento.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Objeto-produto\Objeto como argumento\obj\Debug\netcoreapp3.1\Objeto como argumento.genruntimeconfig.cache

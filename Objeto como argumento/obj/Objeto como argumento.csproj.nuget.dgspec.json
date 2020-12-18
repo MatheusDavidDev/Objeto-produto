@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto como argumento\\Objeto como argumento.csproj": {}
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto-produto\\Objeto como argumento\\Objeto como argumento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto como argumento\\Objeto como argumento.csproj": {
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto-produto\\Objeto como argumento\\Objeto como argumento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto como argumento\\Objeto como argumento.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto-produto\\Objeto como argumento\\Objeto como argumento.csproj",
         "projectName": "Objeto como argumento",
-        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto como argumento\\Objeto como argumento.csproj",
+        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto-produto\\Objeto como argumento\\Objeto como argumento.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto como argumento\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Objeto-produto\\Objeto como argumento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"

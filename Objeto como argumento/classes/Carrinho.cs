@@ -21,7 +21,7 @@ namespace Objeto_como_argumento.classes
                 foreach (var item in listaDeProdutos)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine($"Codifo {item.Codigo} - R${item.Preco.ToString("n2")} - {item.Nome}");
+                    Console.WriteLine($"Codigo {item.Codigo} - R${item.Preco.ToString("n2")} - {item.Nome}");
                     Console.ResetColor();
                 }
             }else{
